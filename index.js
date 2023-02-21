@@ -105,7 +105,7 @@ sr.reveal('.skills_data',{interval:400})
 
 /******PROJECT*****/
 
-sr.reveal('.work_img',{interval:400})
+sr.reveal('.work_img',{interval:400,origin:'top'})
 
 
 
