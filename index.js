@@ -69,7 +69,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 
 const sr = ScrollReveal({
 
-	origin: 'left',
+	origin: 'right',
 
 	distance: '80px',
 
