@@ -75,7 +75,7 @@ const sr = ScrollReveal({
 
 	duration: 2000,
 
-	reset: true
+	reset: false
 
 })
 
